@@ -1,0 +1,9 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/sprite
+      Dependencies: {}
+    Info_1:
+      Name: ui/sprite2
+      Dependencies: {}
